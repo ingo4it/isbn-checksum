@@ -18,9 +18,8 @@ def solution(n)
     end
     gap
 end
-
-puts solution( 9 )
-puts solution( 529 )
-puts solution( 20 )
-puts solution( 32 )
-puts solution( 1041  )
+puts solution(9)
+puts solution(529)
+puts solution(20)
+puts solution(32)
+puts solution(1041)
